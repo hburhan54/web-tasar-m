@@ -1,0 +1,7 @@
+Css grid 
+Ara yüzün yerleşmesinde yardımcı olan alt ve üst çubuklar
+
+ Flex: İçerik yapılı, tek yönlü olduğu için daha çok tercih edilmektedir.
+Grid : sayfa plan temelli
+ Css grid:   Sayfadaki yada uygulamadaki  öğelerin iki boyutlu düzeni için tasarlanmış bir css düzenidir.
+Flexbox: kısaca flex olarak ifade edeceğimiz css kutu düzeni, bir css,3 web düzeni (laytout) modelidir. 
